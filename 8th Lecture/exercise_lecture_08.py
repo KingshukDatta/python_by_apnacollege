@@ -25,6 +25,7 @@ s1 = Student("Karan", m1, m2, m3)
 # calling average method and printing the average.
 print(f"The average of the student {s1.name} is {s1.average()}.")'''
 
+'''--------------------------------------------------------------------------------'''
 
 # Alternate way..
 # creating class.
@@ -57,6 +58,8 @@ print(f"The average of the student {s1.name} is {s1.average()}")'''
 
 '''Create Account class with 2 attributes- balance and account no.
 Create methods for debit, credit & printing the balance'''
+
+'''--------------------------------------------------------------------------------'''
 
 class Account:
   def __init__(self, bal, acc_no):

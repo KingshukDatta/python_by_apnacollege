@@ -1,1 +1,1 @@
-print(s1.name)  # Output: Kingshuk
+del s1
